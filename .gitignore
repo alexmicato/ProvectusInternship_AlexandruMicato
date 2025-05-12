@@ -36,3 +36,6 @@ Thumbs.db
 
 # Local development files
 /node_modules
+
+storage/
+data/processed
