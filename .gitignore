@@ -37,5 +37,7 @@ Thumbs.db
 # Local development files
 /node_modules
 
+# Data folders
 storage/
-data/processed
+data/processed/
+data/rejected/
